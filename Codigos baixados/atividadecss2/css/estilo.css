@@ -1,0 +1,44 @@
+body{
+    background-color: beige;
+}
+.primeira{
+    width: 40%;
+    border:black 2px solid;
+    border-radius: 16px;
+    border-style: dotted ;
+    background-color: rgb(179, 236, 236);
+}
+.segunda{
+    width: 40%;
+    border:black 2px solid;
+    border-radius: 16px;
+    border-style: dotted ;
+    background-color: rgb(235, 159, 159);
+}
+.terceira{
+    width: 40%;
+    border:black 2px solid;
+    border-radius: 16px;
+    border-style: dotted ;
+    background-color: rgb(158, 221, 158);
+}
+.image1{
+    width: 50%;
+    height: auto;
+    border-radius: 20px;
+}
+.image2{
+    width: 50%;
+    height: auto;
+    border-radius: 20px;
+}
+.image3{
+    width: 50%;
+    height: auto;
+    border-radius: 20px;
+}
+.entrada{
+    width: 80%;
+    border:black 2px solid;
+    border-radius: 10px;
+}

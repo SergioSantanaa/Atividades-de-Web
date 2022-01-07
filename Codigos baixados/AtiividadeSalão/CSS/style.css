@@ -1,0 +1,33 @@
+*{ margin: 
+    0px;
+}
+body{
+
+    background-color: rgb(214, 214, 65);
+}
+
+.principal{
+    width: 50%;
+    height: auto;
+}
+
+.titulo{
+    height: 60px;
+    background-color: rgb(214, 22, 22);
+    text-align: center;
+    
+}
+
+.imagem{
+    width: 100%;
+    height: auto;
+    border: solid 1px;
+    margin: 5px;
+    
+}
+
+.lista{
+color: rgb(75, 21, 126);
+margin-top: 10px;
+margin-left: 5px;
+}

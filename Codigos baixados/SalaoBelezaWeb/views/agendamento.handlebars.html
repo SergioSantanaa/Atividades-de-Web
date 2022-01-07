@@ -1,0 +1,10 @@
+<h1>Lista de profissionais</h1>
+
+<ul>
+    {{#each profissionais}}
+       {{#if disponibilidade}}
+            <li>{{nome}} : {{categoria}}</li>
+       {{/if}}
+    {{/each}}
+      
+</ul>

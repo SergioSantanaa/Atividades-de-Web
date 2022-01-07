@@ -1,0 +1,38 @@
+
+*{
+    margin: 0px;
+}
+
+
+.Navegador-menu{
+    width: 100%;
+    background-color: blue;
+    height: 60px;
+    
+}
+.itens-menu li{
+    display: inline;
+    float: right;
+    margin-right: 10%;
+    font-size: x-large;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.titulo-menu{
+    font-size: xx-large;
+    vertical-align: auto;
+    padding-top: 15px;
+    float: left;
+}
+a:hover{
+    color: white;
+}
+.item-menu{
+    padding-top: 5px;
+    padding-left: 15%;
+    

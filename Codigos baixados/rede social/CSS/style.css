@@ -1,0 +1,13 @@
+body{
+    background-color: #f5e9ed;
+}
+.barra{
+    background-color: #ad627c;
+}
+.form{
+    width: 700px;
+    height: 20px;
+}
+.enviar{
+    margin-left: 500px;
+}
